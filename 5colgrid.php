@@ -185,7 +185,7 @@
 				die("Connection failed: " . $conn->connect_error);
 				}
 				
-				$maxlimit = "40";
+				$maxlimit = "45";
 				 
 				// SQL Query
 				$sql = "SELECT * FROM pctable82016 LIMIT $maxlimit";
