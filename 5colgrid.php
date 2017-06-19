@@ -143,23 +143,23 @@
 			}
 
 		/* ///// Six Columns ///// */
-			.sixc {
+			.six-column {
 				display: inline-block;
 				width: 122px;
 				height:122px;
 				margin: 0 2px 5px 2px;
 				/* border:1px #EEE solid; */
 				}
-			.sixc .prodimg {
+			.six-column .prodimg {
 				height: 122px;
 				vertical-align: middle;
 				}
-			.sixc .prodimg img {
+			.six-column .prodimg img {
 				max-height: 122px;
 				max-width: 122px;
 				margin: auto;
 				}
-			.sixc .body-text {
+			.six-column .body-text {
 				font-size:12px !important;
 				}
 		</style>
